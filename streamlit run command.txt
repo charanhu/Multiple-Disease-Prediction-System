@@ -1,1 +1,0 @@
-streamlit run "C:\Users\Charan\Documents\VisualStudioCode\GitHub\Python\Anaconda\Multiple Disease Prediction System\multiple disease pred.py"
